@@ -2,5 +2,5 @@
 
 
 
-[here](./project_notes./scan0001.pdf)
+[Project Notes](./project_notes./scan0001.pdf)
 
